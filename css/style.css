@@ -28,8 +28,18 @@ li{
   color:#333333;
 }
 
-img{
+.top-nav .logo{
 
   margin-left:277px;
   margin-top:.5rem;
 }
+
+.bodyim{
+  background-image: url("http://imgur.com/6kw3CEt.jpg");
+  background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
+    text-align: center;
+}
+
