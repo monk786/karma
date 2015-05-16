@@ -425,3 +425,42 @@ td,
 th {
   padding: 0;
 }
+
+
+
+body{
+
+  background-color:lightGray;
+}
+
+
+div{
+
+  border:1px solid chocolate;
+}
+
+.logo{
+  
+  background-repeat: no-repeat;
+    background-color: white;
+    display: inline-block;
+
+
+  
+
+}
+
+.nav>li{
+
+  display: inline-block;
+  padding: 5px;
+
+text-align: left;
+}
+
+.header{
+
+  display: inline-block;
+
+
+}
