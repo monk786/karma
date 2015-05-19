@@ -440,6 +440,7 @@ th {
   color:white;
   width: 970px;
   height: 70px;
+
 }
 
 .links{
@@ -472,6 +473,7 @@ li{
 
   margin-left:277px;
   margin-top:.5rem;
+
 }
 
 .bodyim{
@@ -539,23 +541,33 @@ button:hover{
   font-size: 2.5rem;
   font-weight: 100;
 
-
-  
-  
-
-
+     margin-bottom: -60px;
 }
-img{
+
+.inter{
+
+  padding: 0 10px;
+  font-weight: 400;
+}
+.pic .coffee , .pump , .internet{
 
 padding: 0 40px;
+display: block;
 
+}
+
+
+
+.pic .dcoffee , .dpump , .dinternet{
+
+  display: inline-block;
 }
 
 .pic{
 
-max-width: 40rem;
-  margin-left:auto;
-  margin-right:auto;
+       max-width: 50rem;
+  margin-left: 20rem;
+  margin-right: auto;
 
 }
 p{
@@ -565,5 +577,35 @@ p{
   text-align: center;
 }
 
+.pay{
+   padding: 0 20px;
+}
 
 
+.footer{
+  border-top-style:solid;
+
+  border-top-color: black;
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ftb{
+
+  margin-left:21rem;
+  padding-top: 1rem;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+.tweet{
+
+  margin-left:18rem;
+  margin-right: 1rem;
+}
+
+.fb{
+
+  margin-right:1rem;
+}
